@@ -1,0 +1,28 @@
+#options{
+	display: inline-block;
+	float: left;
+	margin-left: 40px;
+}
+
+
+#listsOptions{
+	width: 200px;
+	float: left;
+}
+
+#listsOptions ul{
+	list-style: none;
+}
+
+#listsOptions ul li{
+	padding: 10px;
+}
+
+#listsOptions ul li a{	
+	color: #23486F;
+    font-family: arial;
+    font-size: 15px;
+    line-height: 20px;    
+    text-decoration: none;
+    text-transform: uppercase;
+}
